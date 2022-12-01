@@ -5,7 +5,7 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/mwaseemzakir)
 
-## **I'm a Senior Software Engineer (.NET) and Angular Developer**
+## **I'm a Senior Software Engineer (.NET) , Angular Developer and .NET Technical Trainer**
 
 - 🎯 **I’m currently working on**: Mastering the intricacies of DDD and some advanced software architectures.
 - 💬 **Ask me about**: .NET,RESTful APIs, SQL and Angular 2+ .
