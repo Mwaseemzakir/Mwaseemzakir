@@ -5,6 +5,8 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/mwaseemzakir)
 
+[![Medium URL](https://img.shields.io/static/v1?color=blue&label=Medium&logo=Medium&logoColor=white&style=for-the-badge&message=Follow)](https://medium.com/@mwaseemzakir)
+
 ## **I'm a Senior Software Engineer (.NET) , Angular Developer and .NET Technical Trainer**
 
 - 🎯 **I’m currently working on**: Learning Advanced Topics in .NET especially architecture related and React JS
