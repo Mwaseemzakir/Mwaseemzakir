@@ -7,6 +7,10 @@
 
 [![Medium URL](https://img.shields.io/static/v1?color=blue&label=Medium&logo=Medium&logoColor=white&style=for-the-badge&message=Follow)](https://medium.com/@mwaseemzakir)
 
+[![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Follow)](https://web.facebook.com/IamMuhammadWaseemZakir)
+
+[![Newsletter URL](https://img.shields.io/static/v1?color=blue&label=Newsletter&logo=Substack&logoColor=white&style=for-the-badge&message=Follow)](https://mwaseemzakir.substack.com/)
+
 ## **I'm a Senior Software Engineer (.NET) , Angular Developer and .NET Technical Trainer**
 
 - 🎯 **I’m currently working on**: Learning Advanced Topics in .NET especially architecture related and React JS
