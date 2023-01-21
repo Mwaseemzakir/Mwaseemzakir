@@ -7,9 +7,9 @@
 
 [![Medium URL](https://img.shields.io/static/v1?color=blue&label=Medium&logo=Medium&logoColor=white&style=for-the-badge&message=Follow)](https://medium.com/@mwaseemzakir)
 
-[![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Follow)](https://web.facebook.com/IamMuhammadWaseemZakir)
+[![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Like)](https://web.facebook.com/IamMuhammadWaseemZakir)
 
-[![Newsletter URL](https://img.shields.io/static/v1?color=blue&label=Newsletter&logo=Substack&logoColor=white&style=for-the-badge&message=Follow)](https://mwaseemzakir.substack.com/)
+[![Newsletter URL](https://img.shields.io/static/v1?color=blue&label=Newsletter&logo=Substack&logoColor=white&style=for-the-badge&message=Subscribe)](https://mwaseemzakir.substack.com/)
 
 ## **I'm a Senior Software Engineer (.NET) , Angular Developer and .NET Technical Trainer**
 
