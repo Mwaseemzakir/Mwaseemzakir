@@ -14,10 +14,6 @@
 [![Patreon URL](https://img.shields.io/static/v1?color=blue&label=Patreon&logo=Patreon&logoColor=white&style=for-the-badge&message=Become-Patreon)](https://www.patreon.com/mwaseemzakir)
 
 
-<a href="https://www.buymeacoffee.com/mwaseemzakir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-
 
 ## **I'm a Senior Software Engineer (.NET) , Angular Developer and .NET Technical Trainer**
 
