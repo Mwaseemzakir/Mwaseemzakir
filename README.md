@@ -15,6 +15,6 @@
 
 
 
-## **I'm a Senior Software Engineer (.NET) , Angular Developer and .NET Technical Trainer**
+## Senior Software Engineer (.NET) and Content Creator
 
 
