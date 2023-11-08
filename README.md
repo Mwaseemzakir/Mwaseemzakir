@@ -1,4 +1,9 @@
-### Hi there, I'm Muhammad Waseem! 👋 
+### Hi there, I'm Muhammad Waseem! 👋                                          
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=mwaseemzakir" alt="Profile views" />
+</div>
+
 
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Like)](https://web.facebook.com/IamMuhammadWaseemZakir)
 
