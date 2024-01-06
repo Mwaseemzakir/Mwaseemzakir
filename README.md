@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mwaseemzakir" alt="Profile views" />
 </div>
 
+[![Youtube URL](https://img.shields.io/static/v1?color=blue&label=Youtube&logo=Youtube&logoColor=red&style=for-the-badge&message=Subcribe)](https://www.youtube.com/@mwaseemzakir)
 
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Like)](https://web.facebook.com/IamMuhammadWaseemZakir)
 
